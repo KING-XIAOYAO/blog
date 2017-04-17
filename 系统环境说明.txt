@@ -1,0 +1,11 @@
+开发环境：
+操作系统：Windows10专业版64bit
+Web服务器：tomcat9
+jdk环境：jdk1.8.0_77
+开发工具：idea
+数据库：mysql-5.7.12
+构建工具：Maven
+前台使用技术：JS、JQuery、CSS3、HTML5、jstl、el,spring tags,spEL
+后台使用技术：Spring MVC、Spring、MyBatis、shiro
+
+
